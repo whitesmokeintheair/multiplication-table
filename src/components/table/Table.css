@@ -1,0 +1,75 @@
+.table-header-cell {
+	font-weight: bold;
+	background-color: #f5f5f5;
+	padding: 0.5rem;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+.table-data-cell {
+	padding: 0.5rem;
+	border: 1px solid #ccc;
+	text-align: center;
+	cursor: pointer;
+}
+
+.table-data-cell.sum-cell {
+	background-color: lightgray;
+}
+
+.sticky-cell-right {
+	position: sticky;
+	right: 0;
+	z-index: 1;
+}
+
+.sticky-cell-bottom {
+	position: sticky;
+	bottom: 0;
+	z-index: 1;
+	background-color: lightgray;
+}
+
+.sticky-cell-top {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
+
+.highlighted-cell {
+	background-color: yellow;
+}
+
+.table-container {
+	overflow: scroll;
+	height: 60vh;
+	width: 100%;
+}
+
+.table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.remove-row-button {
+	display: table-cell;
+	background-color: transparent;
+	border: none;
+	color: #f00;
+	cursor: pointer;
+	font-size: 0.8em;
+}
+
+.add-row-button {
+	display: table-cell;
+	background-color: #45a050;
+	color: white;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.add-row-button:hover {
+	background-color: #45a049;
+}
