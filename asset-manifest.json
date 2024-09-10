@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multiplication-table/static/css/main.65c60f91.css",
+    "main.js": "/multiplication-table/static/js/main.ea8f5ef2.js",
+    "index.html": "/multiplication-table/index.html",
+    "main.65c60f91.css.map": "/multiplication-table/static/css/main.65c60f91.css.map",
+    "main.ea8f5ef2.js.map": "/multiplication-table/static/js/main.ea8f5ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c60f91.css",
+    "static/js/main.ea8f5ef2.js"
+  ]
+}
