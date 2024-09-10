@@ -1,7 +1,7 @@
 {
 	"name": "react-table-task",
 	"version": "0.1.0",
-	"homepage": "https://whitesmokeintheair.github.io/multiplication-table-test",
+	"homepage": "https://whitesmokeintheair.github.io/multiplication-table",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
